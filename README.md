@@ -1,4 +1,6 @@
 # Login-System
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 A simple login coded with the tutorial of Bro Code on Youtube, mainly to get accustommed to Java and software programmation mechanics
 
